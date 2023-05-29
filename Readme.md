@@ -5,8 +5,8 @@ this is a Sample Craftcms v4 dokcer image
 * docker installed docker on Linux OR
 * on Windows Docker desktop
 
-````bash 
+```bash 
 docker run -d -p your-public-ip:80:80 aalhalim/caftcms
-
+```
 [http://your-ip-adress//index.php?p=admin/install](your-ip//index.php?p=admin/install)
 
