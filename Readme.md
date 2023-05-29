@@ -12,7 +12,6 @@ OR
 ```bash 
 docker run aalhalim/caftcms
 ```
-docker run aalhalim/caftcms
 [http://your-ip-adress//index.php?p=admin/install](your-ip//index.php?p=admin/install)
 
 ### How to use 
