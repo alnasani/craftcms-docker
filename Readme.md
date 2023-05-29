@@ -22,5 +22,6 @@ docker -d run aalhalim/caftcms
 get in to your Browser type th ip 
 * http://172.17.0.2////index.php?p=admin/install
 
-Inline `you should see this`
+`you should see this`
+
 ![craftcms](craftcms.png) 
